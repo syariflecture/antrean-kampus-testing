@@ -1,0 +1,12 @@
+# Git menormalkan akhir baris menjadi LF di dalam repositori
+* text=auto
+# Berkas yang WAJIB LF di mana pun karena dijalankan di Linux
+*.sh text eol=lf
+Dockerfile text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.py text eol=lf
+# Berkas biner: jangan diubah akhir barisnya
+*.png -text
+*.jpg -text
+*.pdf -text
