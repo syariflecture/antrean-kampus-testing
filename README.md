@@ -6,7 +6,7 @@ Pada tahap ini isinya baru kerangka proyek; belum ada kode aplikasi.
 ## Anggota tim
 | Nama | NIM | Akun GitHub | Peran |
 |---|---|---|---|
-| <nama> | <nim> | <@username> | Ketua tim |
+| akhmadsyarif | 12123 | syarifleacturer | Ketua tim |
 ## Cara menjalankan
 Akan diisi pada Pertemuan 9.
 ## Aturan kerja tim
