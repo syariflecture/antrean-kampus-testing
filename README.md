@@ -12,3 +12,4 @@ Akan diisi pada Pertemuan 9.
 ## Aturan kerja tim
 1. Cabang main selalu dalam keadaan bisa dijalankan.
 2. Jangan pernah menyimpan kata sandi atau token di repositori ini.
+baru saja
